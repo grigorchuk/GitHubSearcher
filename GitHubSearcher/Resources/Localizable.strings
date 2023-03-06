@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  GitHubSearcher
+
+  Created by Alex on 04.09.2020.
+  Copyright © 2020 Grigorchuk. All rights reserved.
+*/
+
+"auth_title" = "Auth";
+"search_title" = "Search";
+"profile_title" = "Profile";
